@@ -23,7 +23,9 @@ how to setup a local LLM
 how i fix images with ai
 --->
 
-<!--- #### Notes and experiments --->
+<!--- #### Notes and experiments 
+- Setup your own private LLM server
+--->
 
 #### Where else to find me
 - [Linkedin](https://www.linkedin.com/in/rob-mitchell-pydev/)
