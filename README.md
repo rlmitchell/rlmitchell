@@ -12,6 +12,13 @@ I’m an IT Engineer with 20+ years of experience in production systems, focused
 
 I’m also passionate about LLMs and generative AI, particularly running local models to improve automation, developer productivity, and operational efficiency. I prioritize reliable, reusable solutions and the critical evaluation and verification of AI-generated results.
 
+<!---
+#### What I'm building
+- Mimas — a modern, fast, small eurasure coding based locak object store (replace)
+- Dione — a modern, fast, small, and beautiful Markdown viewer and editor (replace)
+- connect4 in java
+--->
+
 <!--- #### Latest notes --->
 
 #### Where else to find me
