@@ -19,7 +19,7 @@ I’m also passionate about LLMs and generative AI, particularly running local m
 - connect4 in java
 --->
 
-<!--- #### Latest notes --->
+<!--- #### Notes and experiments --->
 
 #### Where else to find me
 - [Linkedin](https://www.linkedin.com/in/rob-mitchell-pydev/)
