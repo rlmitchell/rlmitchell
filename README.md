@@ -18,14 +18,17 @@ I’m also passionate about LLMs and generative AI, particularly running local m
 - Dione — a modern, fast, small, and beautiful Markdown viewer and editor (replace)
 - connect4 in java
 - local bookmark service
+- chrome in container
+- pycharm in container
 
-how to setup a local LLM
+
 how i fix images with ai
 --->
 
-<!--- #### Notes and experiments 
-- Setup your own private LLM server
---->
+#### Notes and experiments 
+
+- [Setup your own private LLM server](https://github.com/rlmitchell/labs/blob/main/20261014.local-LLM-setup.md) Oct 14, 2026
+
 
 #### Where else to find me
 - [Linkedin](https://www.linkedin.com/in/rob-mitchell-pydev/)
