@@ -17,6 +17,7 @@ I’m also passionate about LLMs and generative AI, particularly running local m
 - Mimas — a modern, fast, small eurasure coding based locak object store (replace)
 - Dione — a modern, fast, small, and beautiful Markdown viewer and editor (replace)
 - connect4 in java
+- local bookmark service
 
 how to setup a local LLM
 how i fix images with ai
