@@ -21,7 +21,10 @@ I’m also passionate about LLMs and generative AI, particularly running local m
 - chrome in container
 - pycharm in container
 
+Sal Khan
 https://www.youtube.com/watch?v=nTFEUsudhfs  kahn ted talk
+https://www.youtube.com/watch?v=hJP5GqnTrNo
+
 how i fix images with ai
 --->
 
