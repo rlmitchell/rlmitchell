@@ -31,7 +31,7 @@ how i fix images with ai
 #### Notes and experiments 
 
 - [Convert LLM from HuggingFace to GGUF](https://github.com/rlmitchell/labs/blob/main/20261022.llm.pull-model-convert-to-gguf.md) Oct 22, 2026
-- [Setup your own private LLM server](https://github.com/rlmitchell/labs/blob/main/20261014.local-LLM-setup.md) [on Hashnode](https://rlmitchell.hashnode.dev/setup-your-own-private-llm-server) Oct 14, 2026
+- [Setup your own private LLM server](https://github.com/rlmitchell/labs/blob/main/20261014.local-LLM-setup.md) &nbsp; & &nbsp; [on Hashnode](https://rlmitchell.hashnode.dev/setup-your-own-private-llm-server) Oct 14, 2026
 
 
 #### Where else to find me
