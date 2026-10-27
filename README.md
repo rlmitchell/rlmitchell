@@ -35,5 +35,6 @@ how i fix images with ai
 
 
 #### Where else to find me
+- [My public GPG key](https://rlmpublic.s3.amazonaws.com/rlm-pk.20261027.asc)
 - [Linkedin](https://www.linkedin.com/in/rob-mitchell-pydev/)
   
